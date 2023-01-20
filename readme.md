@@ -2,6 +2,10 @@
 
 CPU : Intel Core i7-6500U
 
+内存：金士顿16G 2666
+
+硬盘：三星128G
+
 显卡：Intel HD Graphics 520（注入0X19160000）
 
 无线蓝牙：博通BCM94360Z4
